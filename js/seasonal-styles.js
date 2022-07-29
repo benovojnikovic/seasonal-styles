@@ -31,7 +31,7 @@ $("document").ready(function(){
     if(season == 'Default'){
             $("html").css("background-color", "#000000");
             $("#wear").attr("src","images/seasons.jpg")
-            $("#logo").attr("src","images/seasons.jpg")
+            $("#logo").attr("src","images/four-seasons.gif")
             $("header h3").text("Default")
     }
     });
